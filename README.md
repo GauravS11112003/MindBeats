@@ -22,7 +22,7 @@ OpenAI, Muse
 * ```git clone https://github.com/pranayjoshi/mind_music.git```
 * ```cd mind_music```
 * ```pip install -r requirements.txt```
-* ```streamlit run emotionprediction.py```
+* ```streamlit run app/main.py```
 
 ### Git commands
 * ```git add .```
