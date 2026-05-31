@@ -7,7 +7,7 @@ def load_html(file_path):
     return html_content
 
 # Path to the HTML file
-html_file_path = 'ex.html'
+html_file_path = 'assets/ex.html'
 
 # Load the HTML content
 html_content = load_html(html_file_path)

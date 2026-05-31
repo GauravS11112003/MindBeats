@@ -189,7 +189,7 @@ def dashboard():
 
     # Load model
     try:
-        model_path = "EmotionNetV2.h5"
+        model_path = "models/EmotionNetV2.h5"
         for test_samples in [256, 384, 512, 768]:
             print(f"\nTrying with desiredSamples = {test_samples}")
             try:
